@@ -3,8 +3,8 @@
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=50&lines=Self-taught+Full-Stack+Developer,;Working+For+Mercedez-Benz,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-<h1></h1>
 </p>
+<h1></h1>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 280px height = 300px></picture>
 
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -16,7 +16,7 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS, GCP**
 
-- 💬 Ask me about **AWS, Angular React, Electron, Nodejs, MongoDB**
+- 💬 Ask me about **AWS, Angular, React, Electron, Nodejs, MongoDB**
 
 - 🏆 SIH-2020 Finalist
 
